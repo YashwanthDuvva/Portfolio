@@ -1,0 +1,34 @@
+.home{
+    text-align: center;
+    padding: 50px;
+}
+.heading{
+    text-align: center;
+}
+
+.skills{
+    background-color: rgb(229, 233, 237);
+    margin-top: 90px;
+    padding: 50px;
+}
+.projects{
+    margin-top: 90px;
+    padding: 50px;
+}
+.contact{
+    background-color: rgb(229, 233, 237);
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+
+.btn{
+    color: rgb(42, 41, 41);
+    margin: 20px;
+    width: 8rem;
+}
+
+a{
+    margin-left: 25%;
+}
